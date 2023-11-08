@@ -1,6 +1,6 @@
 # Solar-Power-Generation-Forecasting
 This project aims to develop a robust forecasting model capable of accurately predicting solar power generation for the future.
-Project Overview
+### Project Overview
 This project aims to develop a robust forecasting model capable of accurately predicting solar power generation for future time intervals. The model will utilize historical solar power generation and weather sensor data to make informed predictions, contributing to efficient grid management, promoting the integration of renewable energy, and fostering sustainable energy practices.
 Dataset
 The dataset used in this project consists of two CSV files:
